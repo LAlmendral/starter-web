@@ -1,1 +1,3 @@
-Es un archivo de prueba
+Es un archivo de prueba.
+
+Hemos añadido una línea más de detalle al fichero.
